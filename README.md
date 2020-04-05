@@ -1,7 +1,7 @@
 # Access - AC labs 20220
 Git repository used to collaborate with the students enrolled at the Access AC lab 2020
 
-# How do we work
+# How do we work here
 Each stundent has to: 
 - fork this repository
 - clone the forked repository
